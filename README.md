@@ -13,7 +13,7 @@ Olá! Sou Luiz Ricardo, formado em **Direito** e **Tecnologia em Desenvolvimento
 - [GitHub](https://github.com/LuizRicardo25)
 
 ## 💼 Experiência Profissional
-- **Escrivão de Polícia**: Contribuindo com a segurança pública desde 1994.
+- **Servidor Público**: Contribuindo com o setor público desde 1994.
 - **Desenvolvedor e Inovador**: Na interseção da tecnologia e da educação.
 
 ## 📚 Educação
